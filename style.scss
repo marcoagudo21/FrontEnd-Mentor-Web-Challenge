@@ -1,0 +1,108 @@
+// Primary
+$soft-red:hsl(7, 99%, 70%);
+$Yellow: hsl(51, 100%, 49%);
+$graphic-design-text: hsl(167, 40%, 24%);
+$photography-text: hsl(198, 62%, 26%);
+$footer: hsl(168, 34%, 41%);
+$grayish-blue: hsl(210, 4%, 67%);
+
+body{
+    .bg-image{
+        background-image: url(./img/desktop/image-header.jpg);
+        background-repeat: no-repeat;
+        background-position: center 45%;
+        background-size: cover;
+    }
+    .container-fluid{
+        nav{
+            .container-fluid{
+                div{
+                    font-family: 'Barlow', sans-serif;
+                    font-size: 18px;
+                    .btn-color{
+                        background-color: #fff !important;
+                        border: #51B6EB;
+                        color: #1A212D;
+                        font-weight: 700;
+                        font-family: 'Barlow', sans-serif;
+                        font-size: 18px;
+                    }
+                }
+            }
+        }
+        
+    }
+    .ph-title{
+        font-family: 'Fraunces', serif;
+    }
+   .container-2{
+    
+    .row{
+        .img-1{
+            background-image: url(./img/desktop/image-transform.jpg);
+            height: 70vh;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+        .img-2{
+            background-image: url(./img/desktop/image-stand-out.jpg);
+            height: 70vh;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: bottom;
+        }
+        
+        .img-3{
+            background-image: url(./img/desktop/image-graphic-design.jpg);
+            height: 70vh;
+            background-repeat: no-repeat;
+            background-size: cover ;
+            background-position: 0px 0px ;
+        }
+        .img-4{
+            background-image: url(./img/desktop/image-photography.jpg);
+            height: 70vh;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position:0px 0px;
+        }
+    }
+   }
+   .container-fluid3{
+    .row2{
+        .img-5{
+            background-image: url(./img/desktop/image-gallery-milkbottles.jpg);
+            height: 50vh;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position:bottom;
+        }
+        .img-6{
+            background-image: url(./img/desktop/image-gallery-orange.jpg);
+            height: 50vh;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position:0px 0px;
+        }
+        .img-7{
+            background-image: url(./img/desktop/image-gallery-cone.jpg);
+            height: 50vh;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position:bottom;
+        }
+        .img-8{
+            background-image: url(./img/desktop/image-gallery-sugarcubes.jpg);
+            height: 50vh;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position:center;
+        }
+
+    }
+    .footer{
+        background-color: #90D4C5;
+    }
+   }
+}

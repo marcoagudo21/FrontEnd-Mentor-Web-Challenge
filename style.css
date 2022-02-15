@@ -1,0 +1,93 @@
+body .bg-image {
+  background-image: url(./img/desktop/image-header.jpg);
+  background-repeat: no-repeat;
+  background-position: center 45%;
+  background-size: cover;
+}
+
+body .container-fluid nav .container-fluid div {
+  font-family: 'Barlow', sans-serif;
+  font-size: 18px;
+}
+
+body .container-fluid nav .container-fluid div .btn-color {
+  background-color: #fff !important;
+  border: #51B6EB;
+  color: #1A212D;
+  font-weight: 700;
+  font-family: 'Barlow', sans-serif;
+  font-size: 18px;
+}
+
+body .ph-title {
+  font-family: 'Fraunces', serif;
+}
+
+body .container-2 .row .img-1 {
+  background-image: url(./img/desktop/image-transform.jpg);
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+body .container-2 .row .img-2 {
+  background-image: url(./img/desktop/image-stand-out.jpg);
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+body .container-2 .row .img-3 {
+  background-image: url(./img/desktop/image-graphic-design.jpg);
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0px 0px;
+}
+
+body .container-2 .row .img-4 {
+  background-image: url(./img/desktop/image-photography.jpg);
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0px 0px;
+}
+
+body .container-fluid3 .row2 .img-5 {
+  background-image: url(./img/desktop/image-gallery-milkbottles.jpg);
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+body .container-fluid3 .row2 .img-6 {
+  background-image: url(./img/desktop/image-gallery-orange.jpg);
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0px 0px;
+}
+
+body .container-fluid3 .row2 .img-7 {
+  background-image: url(./img/desktop/image-gallery-cone.jpg);
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+body .container-fluid3 .row2 .img-8 {
+  background-image: url(./img/desktop/image-gallery-sugarcubes.jpg);
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+body .container-fluid3 .footer {
+  background-color: #90D4C5;
+}
+/*# sourceMappingURL=style.css.map */
